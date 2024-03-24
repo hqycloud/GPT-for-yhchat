@@ -15,7 +15,7 @@
 | <center><strong>完全免费 | <center><strong>√</strong></center> |
 | <center><strong>流式输出 | √ |
 
-#### 你的下一个AI助手
+**具体可查看作者[blog](https://hqycloud.top/yhchat/254/)**
 
 ##### 上下文使用事项
 * 此功能仅在私聊中提供！
