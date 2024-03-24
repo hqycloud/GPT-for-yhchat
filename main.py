@@ -23,6 +23,8 @@ group_at = ["@Gemini", "@gemini", "@Gemini Bot", "@gemini bot", "@Gemini bot", "
 # OpenAI API的基本URL和API密钥
 OPENAI_BASE_URL = "" #api接口地址：https://api.openai.com/v1
 OPENAI_API_KEY = ""  #apikey：sk-xxxxxxxx
+#调用模型
+GPTmodel="gemini-1.0-pro-latest"
 
 #==================环境变量（结束）===================================
 
@@ -100,7 +102,7 @@ def push_message(recvType, recvId, contentType, text):
     client = OpenAI(api_key=OPENAI_API_KEY, base_url=OPENAI_BASE_URL)
 
     stream = client.chat.completions.create(
-        model="gemini-1.0-pro-latest",
+        model=GPTmodel,
         messages=[
             {
                 "role": "system",
