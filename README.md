@@ -5,14 +5,15 @@
 
 ###### 支持私聊，支持添加到自己的群使用！
 
-###### 它的优点：
-* 响应速度快
-* 没有限制的对话
-* 连续的上下文
-* 高效的一键复制
-* 接近于OpenAi ChatGPT 4.0的回答质量
-* 完全免费！
-* 流式输出
+| <center><strong>特点</strong></center> |  |
+|---|---|
+| <center><strong>响应速度快 | <center><strong>√</strong></center> |
+| <center><strong>没有限制的对话 | <center><strong>√</strong></center> |
+| <center><strong>连续的上下文 | <center><strong>√</strong></center> |
+| <center><strong>高效的一键复制 | <center><strong>√</strong></center> |
+| <center><strong>接近于 OpenAI ChatGPT 4.0 的回答质量 | <center><strong>√</strong></center> |
+| <center><strong>完全免费 | <center><strong>√</strong></center> |
+| <center><strong>流式输出 | √ |
 
 #### 你的下一个AI助手
 
