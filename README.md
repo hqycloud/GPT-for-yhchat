@@ -1,9 +1,11 @@
 ## [点击使用云湖机器人【Gemini Bot】](https://yhfx.jwznb.com/share?key=O1pAnYgHTycu&ts=1709444123)
 机器人ID: 9804152
 
-##### Google Gemini Ai是一种多模态人工智能模型，它结合了文本、图像、音频和视频的强大功能，能够生成类似人类的文本、翻译语言、创建图像和视频、回答问题以及执行各种认知任务。它的目标是提高人工智能模型的灵活性、效率和整体性能。
+**Google Gemini Ai是一种多模态人工智能模型，它结合了文本、图像、音频和视频的强大功能，能够生成类似人类的文本、翻译语言、创建图像和视频、回答问题以及执行各种认知任务。它的目标是提高人工智能模型的灵活性、效率和整体性能。**
 
-###### 支持私聊，支持添加到自己的群使用！
+**支持私聊，支持添加到自己的群使用！**
+
+**具体可查看作者[blog](https://hqycloud.top/yhchat/254/)**
 
 | <center><strong>特点</strong></center> |  |
 |---|---|
@@ -15,13 +17,12 @@
 | <center><strong>完全免费 | <center><strong>√</strong></center> |
 | <center><strong>流式输出 | √ |
 
-**具体可查看作者[blog](https://hqycloud.top/yhchat/254/)**
-
 ##### 上下文使用事项
 * 此功能仅在私聊中提供！
 * 清除上下文请使用/RESET、/清除上下文或者指令菜单清除
 
-##### 群组中请使用@拉起bot，例如：
+##### 群组：
+**请使用@拉起bot，例如：**
 * @Gemini
 * @Gemini Bot
 * @bot #Bot /Bot
